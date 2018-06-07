@@ -1,8 +1,10 @@
-ethics concept: privacy 
+# Ethics Concept: Privacy
+
+## Exericse 1
 
 You have been asked to analyze data for a data site used primarily by gay-identified men.
 
-<insert dataframe with userID, age, race, city, country, state, most recent log-in date>
+(insert dataframe with userID, age, race, city, country, state, most recent log-in date)
 
 Examine the data.
 
@@ -10,31 +12,30 @@ You have been asked to create a tool that shows where the application is in use.
 
 You create a tool that intersects geographic area with number, density, recent use. Write the code for this.
 
-<We see that some geographic areas have an n=1 or n=10. A low number/density of gay men or gay men of color.>
+(We see that some geographic areas have an n=1 or n=10. A low number/density of gay men or gay men of color.)
 
 Before you hand over the data to the marketing team, what should you consider?
-[]privacy of the users
-[]making the data less specific
-[]etc
-[]all of the above
-[]none of the above
+- privacy of the users
+- making the data less specific
+- etc
+- all of the above
+- none of the above
 
-
+## Exercise 2
 
 The same data set is given to you but also has the variables HIV status and most recent testing date. This time a public health non-profit is interested in getting detailed information to get people tested and in treatment for HIV. They give you a dataset for testing centers across the same geographic area. 
 
 Examine the data and write code to intersect the two data sets. 
 
-
-<If they do a data viz, then we may want a data set that shows lower rates of hiv in places with low access to testing centers>
+(If they do a data viz, then we may want a data set that shows lower rates of hiv in places with low access to testing centers)
 
 The public health nonprofit wants to send messages to people they believe are at risk for them to get access to testing centers. They specifically want to outreach to black gay men living in rural areas. Write code to identify who these men are.
 
-<Data shows that there are areas where the privacy of the men might be compromised due to their low numbers. Also, stigma of being gay in rural areas, but we don't have to mention that social un-coded variable.>
+(Data shows that there are areas where the privacy of the men might be compromised due to their low numbers. Also, stigma of being gay in rural areas, but we don't have to mention that social un-coded variable.)
 
 What should you consider when handing data over to the public health nonprofit?
-[]privacy of the users
-[]harm to the users
-[]etc
-[]all of the above
-[]none of the above
+- privacy of the users
+- harm to the users
+- etc
+- all of the above
+- none of the above
